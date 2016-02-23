@@ -1,0 +1,10 @@
+1. rozsirit priklad o vypocet prumerne hodnoty
+2. char pole8[10] = {1, 2, 3, ...}
+					10 * 100
+					10 * -100
+	Vypocitejte soucet a prumer (MOVSX)
+
+3. vynasobit vsechny prvky v pole32[] a pole8[]
+	int nasob32, char nasob8 (preteceni ignorovat)
+
+4. provedte bitovy posun pole a bajtu doprava o okolik
