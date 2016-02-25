@@ -1,0 +1,11 @@
+Prevedte v retezci pismena na mala
+	char str[] = "...";
+
+Nahradte cislice pozadovanym znakem.
+	void replace(char * str, char c);
+
+Pocet lichych cisel v poli.
+	int oddcount(int* arr, int N);
+
+Vypoctete aritmeticky prumer kladnych a zapornych cisel.
+
