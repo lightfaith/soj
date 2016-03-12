@@ -1,0 +1,12 @@
+meemcpy(void* dest, void* src, int l) - beware of overlap! 
+	MOVS
+
+
+unchar(char* str, char forbidden)
+
+
+
+upper() refactoring - not so many jumps
+
+
+
