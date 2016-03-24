@@ -1,0 +1,6 @@
+1. V 64b naimplementujte 
+	__int128 deleni(__int128, delenec, long delitel, int* zbytek);
+
+
+2. Pomoci deleni prevedte __int128 na retezec (v C)
+	void int128_to_str(__int128 n, char * output);
