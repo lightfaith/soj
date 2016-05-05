@@ -1,0 +1,12 @@
+objem koule
+	4/3PIr^3
+
+pythagor
+	sqrt - double
+	sqrtf - float
+
+vekt soucet
+	vsoucet(double *a, double *b, int N), a = a+b
+
+velikost vektoru
+	vsize(double *v, int N)
